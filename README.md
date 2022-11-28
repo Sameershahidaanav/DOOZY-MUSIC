@@ -14,7 +14,7 @@ ___
  
 - DEPLOY TO HEROKU
 
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-DLK/DOOZY-MUSIC)
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameershahidaanav/DOOZY-MUSIC)
 
 
 
